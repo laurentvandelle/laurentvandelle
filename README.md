@@ -2,7 +2,7 @@
 
 Quick intro, so we can get to know each other 👇
 
-I'm Laurent, a developer and former and tech founder based in Lyon, France. These days I build **AI-powered tools and production-ready boilerplates for solo founders** who'd rather ship than wait for a dev team.
+I'm Laurent, a developer and a tech founder based in Lyon, France. These days I build **AI-powered tools and production-ready boilerplates for solo founders** who'd rather ship than wait for a dev team.
 
 My belief: **anyone can build their own custom tools now.** I just help you get there faster, without the messy parts.
 
@@ -33,4 +33,4 @@ Got an idea you want to ship, or a workflow you'd like to automate? I'd love to 
 
 - 🐦 [X](https://x.com/laurentvandelle)
 - 👔 [LinkedIn](https://www.linkedin.com/in/laurent-vandelle)
-- 🌐 [vandelle.com](http://vandelle.com/)
+- 🌐 [vandelle.com](https://vandelle.com/)
