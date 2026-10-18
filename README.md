@@ -15,7 +15,7 @@ My belief: **anyone can build their own custom tools now.** I just help you get 
 
 ## 🛠️ Tech I love
 
-**Languages:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+**Languages:** ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
 
 **Frontend:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![TanStack](https://img.shields.io/badge/-TanStack%20Start-FF4154?logo=reactquery&logoColor=white) ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
