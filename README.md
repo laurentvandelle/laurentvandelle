@@ -27,10 +27,10 @@ My belief: **anyone can build their own custom tools now.** I just help you get 
 
 **Productivity:** ![Notion](https://img.shields.io/badge/-Notion-000000?logo=notion&logoColor=white)
 
-## 🤝 Let's build something
+## 🤝 Let’s connect
 
-Got an idea you want to ship, or a workflow you'd like to automate? I'd love to hear about it.
+Looking to automate your business or build a custom app ? Get in touch or follow me for practical automation ideas and what I’m building.
 
-- 🐦 [X](https://x.com/laurentvandelle)
+- 🚀 [X](https://x.com/laurentvandelle)
 - 👔 [LinkedIn](https://www.linkedin.com/in/laurent-vandelle)
-- 🌐 [vandelle.com](https://vandelle.com/)
+- 🌐 [laurent.vandelle.com](https://laurent.vandelle.com/)
