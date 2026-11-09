@@ -31,6 +31,4 @@ My belief: **anyone can build their own custom tools now.** I just help you get 
 
 Looking to automate your business or build a custom app ? Get in touch or follow me for practical automation ideas and what I’m building.
 
-- 🚀 [X](https://x.com/laurentvandelle)
-- 👔 [LinkedIn](https://www.linkedin.com/in/laurent-vandelle)
-- 🌐 [laurent.vandelle.com](https://laurent.vandelle.com/)
+[LinkedIn](https://www.linkedin.com/in/laurent-vandelle) · [X](https://x.com/laurentvandelle) · [laurent.vandelle.com](https://laurent.vandelle.com/)
