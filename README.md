@@ -8,10 +8,11 @@ My belief: **anyone can build their own custom tools now.** I just help you get 
 
 ## 🔭 What I'm working on
 
-- **Production-ready boilerplates:** full-stack starters with auth, database and deployment already wired up, plus AI rules so your coding agent understands the codebase from day one
-- **Rule & skill packs:** battle-tested instructions for Claude Code and Cursor, so agents write code the way you would
-- **Agentic dev workflows:** plan → GitHub issue → agent → PR → review, with worktrees and preview environments
-- **N8n as code** the new way of shiping AI workkflows
+### [boilerlift](https://github.com/laurentvandelle/boilerlift) — ★ <!--stars:laurentvandelle/boilerlift-->1<!--/stars--> · creator
+
+Write n8n workflows in TypeScript, test them, and lift them from dev to prod. Code is the source. n8n is the runtime.
+
+`n8n` `workflow-as-code` `TypeScript` `workflow automation`
 
 ## 🛠️ Tech I love
 
